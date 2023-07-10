@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: goldenrod;
+    font-size: 35px;
+}
+
+.placeholder{
+    color: blue;
+}
+
+
+
+#searchform{
+    align-self: center;
+}
